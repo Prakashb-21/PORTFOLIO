@@ -9,10 +9,10 @@ echo.
 cd /d "%~dp0"
 
 echo [1/3] Pushing source code to main branch...
-git push origin main
+git push -u origin main
 if %errorlevel% neq 0 (
     echo.
-    echo ERROR: Failed to push to main. Check your GitHub login.
+    echo ERROR: Failed to push to main. If prompted, please complete the GitHub sign-in in your browser.
     pause
     exit /b 1
 )
