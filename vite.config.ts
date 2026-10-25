@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
-  base: command === 'serve' ? '/' : '/My-portfolio/',
+  base: command === 'serve' ? '/' : '/PORTFOLIO/',
   plugins: [
     react(),
     tailwindcss(),

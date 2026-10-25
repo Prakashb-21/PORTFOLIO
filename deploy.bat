@@ -43,7 +43,7 @@ echo   DEPLOYMENT COMPLETE!
 echo ========================================
 echo.
 echo Your portfolio is live at:
-echo https://Prakashb-21.github.io/My-portfolio
+echo https://Prakashb-21.github.io/PORTFOLIO
 echo.
 echo NOTE: GitHub Pages may take 1-2 minutes to update.
 echo.
